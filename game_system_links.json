@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ListForge 40K (Early Releases)",
+    "url": "https://github.com/earth-seed/wh40k-10e",
+    "branch": "LF"
+  },
+  {
+    "name": "ListForge AoS (Early Releases)",
+    "url": "https://github.com/earth-seed/aos-3e",
+    "branch": "LF"
+  }
+]
