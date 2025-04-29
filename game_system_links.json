@@ -2,11 +2,11 @@
   "game_systems": [
     {
       "name": "BSData 40K repo (use for released factions)",
-      "url": "https://cdn.jsdelivr.net/gh/BSData/wh40k-10e@main/"
+      "url": "https://github.com/BSData/wh40k-10e"
     },
     {
       "name": "ListForge 40K fork (early releases)",
-      "url": "https://cdn.jsdelivr.net/gh/earth-seed/wh40k-10e@LF/"
+      "url": "https://github.com/earth-seed/wh40k-10e/tree/LF"
     }
   ]
 }
