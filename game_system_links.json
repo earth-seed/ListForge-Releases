@@ -1,12 +1,14 @@
-[
-  {
-    "name": "ListForge 40K (Early Releases)",
-    "url": "https://github.com/earth-seed/wh40k-10e",
-    "branch": "LF"
-  },
-  {
-    "name": "ListForge AoS (Early Releases)",
-    "url": "https://github.com/earth-seed/aos-3e",
-    "branch": "LF"
-  }
-]
+{
+  "game_systems": [
+    {
+      "name": "ListForge 40K (Early Releases)",
+      "url": "earth-seed/ListForge40K",
+      "branch": "main"
+    },
+    {
+      "name": "ListForge AoS (Early Releases)",
+      "url": "earth-seed/ListForgeAoS",
+      "branch": "main"
+    }
+  ]
+}
