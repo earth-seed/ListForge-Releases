@@ -7,6 +7,10 @@
     {
       "name": "ListForge 40K fork (early releases)",
       "url": "https://github.com/earth-seed/wh40k-10e/tree/LF"
+    },
+    {
+      "name": "Mithraw 40K 11th fork (early release)",
+      "url": "https://github.com/earth-seed/wh40k-11e-mithraw/tree/mithraw"
     }
   ]
 }
