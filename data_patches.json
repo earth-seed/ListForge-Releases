@@ -1,0 +1,1045 @@
+{
+  "schemaVersion": 1,
+  "patches": [
+    {
+      "id": "2026-08-26-gw-points-update",
+      "note": "GW points update Aug 2026",
+      "gameSystems": [
+        "wh40k-11e"
+      ],
+      "costs": [
+        {
+          "entryId": "bd6c-8683-8bc4-962d",
+          "costName": "pts",
+          "expectedOldValue": "160",
+          "newValue": "150"
+        },
+        {
+          "entryId": "b31e-5003-5b63-a305",
+          "costName": "pts",
+          "expectedOldValue": "80",
+          "newValue": "75"
+        },
+        {
+          "entryId": "958-a256-360-8620",
+          "costName": "pts",
+          "expectedOldValue": "80",
+          "newValue": "75"
+        },
+        {
+          "entryId": "6424-ed86-9e15-3e14",
+          "costName": "pts",
+          "expectedOldValue": "65",
+          "newValue": "60"
+        },
+        {
+          "entryId": "6863-bf42-238a-fd0b",
+          "costName": "pts",
+          "expectedOldValue": "100",
+          "newValue": "95"
+        },
+        {
+          "entryId": "e6c2-f3b2-6d3e-c3d3",
+          "costName": "pts",
+          "expectedOldValue": "75",
+          "newValue": "70"
+        },
+        {
+          "entryId": "f48e-276e-a997-c90e",
+          "costName": "pts",
+          "expectedOldValue": "130",
+          "newValue": "120"
+        },
+        {
+          "entryId": "e53b-7d09-eb7c-c6c7",
+          "costName": "pts",
+          "expectedOldValue": "55",
+          "newValue": "50"
+        },
+        {
+          "entryId": "5452-c4a7-59fb-f05c",
+          "costName": "pts",
+          "expectedOldValue": "110",
+          "newValue": "100"
+        },
+        {
+          "entryId": "291f-2885-4512-f0cd",
+          "costName": "pts",
+          "expectedOldValue": "45",
+          "newValue": "40"
+        },
+        {
+          "entryId": "f52d-1814-7d66-1f7b",
+          "costName": "pts",
+          "expectedOldValue": "55",
+          "newValue": "45"
+        },
+        {
+          "entryId": "bcec-dc54-9242-4e13",
+          "costName": "pts",
+          "expectedOldValue": "85",
+          "newValue": "80"
+        },
+        {
+          "entryId": "dd79-c2fe-59d6-d2",
+          "costName": "pts",
+          "expectedOldValue": "90",
+          "newValue": "80"
+        },
+        {
+          "entryId": "a2aa-7688-dcb1-4132",
+          "costName": "pts",
+          "expectedOldValue": "75",
+          "newValue": "70"
+        },
+        {
+          "entryId": "dfcb-7854-1d6d-cd02",
+          "costName": "pts",
+          "expectedOldValue": "65",
+          "newValue": "70"
+        },
+        {
+          "entryId": "fe5a-764e-37ed-7cef",
+          "costName": "pts",
+          "expectedOldValue": "75",
+          "newValue": "70"
+        },
+        {
+          "entryId": "ade0-fa44-d4cf-4fc8",
+          "costName": "pts",
+          "expectedOldValue": "75",
+          "newValue": "70"
+        },
+        {
+          "entryId": "1669-d311-eff9-243b",
+          "costName": "pts",
+          "expectedOldValue": "60",
+          "newValue": "70"
+        },
+        {
+          "entryId": "c581-3ab5-49a0-9ec0",
+          "costName": "pts",
+          "expectedOldValue": "185",
+          "newValue": "160"
+        },
+        {
+          "entryId": "5430-18e-d7b0-1d54",
+          "costName": "pts",
+          "expectedOldValue": "215",
+          "newValue": "195"
+        },
+        {
+          "entryId": "cbcc-e0ad-4b9-2c76",
+          "costName": "pts",
+          "expectedOldValue": "180",
+          "newValue": "160"
+        },
+        {
+          "entryId": "286e-8e39-b807-5981",
+          "costName": "pts",
+          "expectedOldValue": "170",
+          "newValue": "145"
+        },
+        {
+          "entryId": "c8fc-b9fa-d126-a296",
+          "costName": "pts",
+          "expectedOldValue": "170",
+          "newValue": "145"
+        },
+        {
+          "entryId": "d8c8-ea02-21bf-de0b",
+          "costName": "pts",
+          "expectedOldValue": "180",
+          "newValue": "160"
+        },
+        {
+          "entryId": "e529-5853-d7e2-17ad",
+          "costName": "pts",
+          "expectedOldValue": "150",
+          "newValue": "130"
+        },
+        {
+          "entryId": "ddf2-228b-edd9-7e83",
+          "costName": "pts",
+          "expectedOldValue": "150",
+          "newValue": "130"
+        },
+        {
+          "entryId": "206c-6b4d-4aaa-7e79",
+          "costName": "pts",
+          "expectedOldValue": "105",
+          "newValue": "100"
+        },
+        {
+          "entryId": "d361-a36e-1448-264d",
+          "costName": "pts",
+          "expectedOldValue": "250",
+          "newValue": "260"
+        },
+        {
+          "entryId": "65f6-18df-f6df-7e39",
+          "costName": "pts",
+          "expectedOldValue": "120",
+          "newValue": "115"
+        },
+        {
+          "entryId": "25e4-ead-faac-2531",
+          "costName": "pts",
+          "expectedOldValue": "125",
+          "newValue": "120"
+        },
+        {
+          "entryId": "29f1-bb28-6424-6d14",
+          "costName": "pts",
+          "expectedOldValue": "130",
+          "newValue": "120"
+        },
+        {
+          "entryId": "2468-24f5-ad9b-8388",
+          "costName": "pts",
+          "expectedOldValue": "75",
+          "newValue": "85"
+        },
+        {
+          "entryId": "2de0-5897-f724-a592",
+          "costName": "pts",
+          "expectedOldValue": "75",
+          "newValue": "80"
+        },
+        {
+          "entryId": "36df-8f40-8a6b-7d4c",
+          "costName": "pts",
+          "expectedOldValue": "100",
+          "newValue": "115"
+        },
+        {
+          "entryId": "41c2-d2e6-ae43-3beb",
+          "costName": "pts",
+          "expectedOldValue": "90",
+          "newValue": "100"
+        },
+        {
+          "entryId": "a903-dd97-339d-6899",
+          "costName": "pts",
+          "expectedOldValue": "255",
+          "newValue": "265"
+        },
+        {
+          "entryId": "7b06-189d-b11e-c189",
+          "costName": "pts",
+          "expectedOldValue": "55",
+          "newValue": "60"
+        },
+        {
+          "entryId": "d1cc-e17a-f1a1-4349",
+          "costName": "pts",
+          "expectedOldValue": "150",
+          "newValue": "160"
+        },
+        {
+          "entryId": "112d-8078-777f-76a5",
+          "costName": "pts",
+          "expectedOldValue": "80",
+          "newValue": "85"
+        },
+        {
+          "entryId": "fd37-8a80-3da8-f262",
+          "costName": "pts",
+          "expectedOldValue": "90",
+          "newValue": "100"
+        },
+        {
+          "entryId": "8b1d-9029-f9e1-42d9",
+          "costName": "pts",
+          "expectedOldValue": "395",
+          "newValue": "385"
+        },
+        {
+          "entryId": "4175-82c6-8e96-bef8",
+          "costName": "pts",
+          "expectedOldValue": "395",
+          "newValue": "385"
+        },
+        {
+          "entryId": "0119-8c04-435e-c782",
+          "costName": "pts",
+          "expectedOldValue": "380",
+          "newValue": "360"
+        },
+        {
+          "entryId": "61e0-e55b-1926-44df",
+          "costName": "pts",
+          "expectedOldValue": "365",
+          "newValue": "355"
+        },
+        {
+          "entryId": "753d-4e02-eda3-4809",
+          "costName": "pts",
+          "expectedOldValue": "140",
+          "newValue": "135"
+        },
+        {
+          "entryId": "e96b-ac98-7fd2-a155",
+          "costName": "pts",
+          "expectedOldValue": "155",
+          "newValue": "145"
+        },
+        {
+          "entryId": "8f4b-c343-bef5-6779",
+          "costName": "pts",
+          "expectedOldValue": "95",
+          "newValue": "105"
+        },
+        {
+          "entryId": "c88f-d4dc-84b3-1b31",
+          "costName": "pts",
+          "expectedOldValue": "65",
+          "newValue": "60"
+        },
+        {
+          "entryId": "f5ac-4f37-fe7b-36b6",
+          "costName": "pts",
+          "expectedOldValue": "390",
+          "newValue": "375"
+        },
+        {
+          "entryId": "1ffc-27de-8aea-e7bb",
+          "costName": "pts",
+          "expectedOldValue": "60",
+          "newValue": "50"
+        },
+        {
+          "entryId": "e58b-507a-937f-7abf",
+          "costName": "pts",
+          "expectedOldValue": "185",
+          "newValue": "170"
+        },
+        {
+          "entryId": "7b4c-dfe0-6a0a-304a",
+          "costName": "pts",
+          "expectedOldValue": "80",
+          "newValue": "90"
+        },
+        {
+          "entryId": "ada7-eb0b-c920-d77f",
+          "costName": "pts",
+          "expectedOldValue": "250",
+          "newValue": "260"
+        },
+        {
+          "entryId": "e8ad-bd40-5952-6859",
+          "costName": "pts",
+          "expectedOldValue": "110",
+          "newValue": "105"
+        },
+        {
+          "entryId": "415a-e6f6-d17f-d700",
+          "costName": "pts",
+          "expectedOldValue": "100",
+          "newValue": "95"
+        },
+        {
+          "entryId": "595a-cfac-3b40-710d",
+          "costName": "pts",
+          "expectedOldValue": "110",
+          "newValue": "100"
+        },
+        {
+          "entryId": "ba4f-c3f9-6925-af0c",
+          "costName": "pts",
+          "expectedOldValue": "100",
+          "newValue": "90"
+        },
+        {
+          "entryId": "2add-0a08-fbef-8f5e",
+          "costName": "pts",
+          "expectedOldValue": "80",
+          "newValue": "75"
+        },
+        {
+          "entryId": "5310-ecc3-fcf4-f337",
+          "costName": "pts",
+          "expectedOldValue": "65",
+          "newValue": "70"
+        },
+        {
+          "entryId": "8725-de36-7ef7-45f6",
+          "costName": "pts",
+          "expectedOldValue": "70",
+          "newValue": "80"
+        },
+        {
+          "entryId": "58e9-5212-f5a6-c12d",
+          "costName": "pts",
+          "expectedOldValue": "80",
+          "newValue": "85"
+        },
+        {
+          "entryId": "84bc-87b1-1eec-f574",
+          "costName": "pts",
+          "expectedOldValue": "55",
+          "newValue": "60"
+        },
+        {
+          "entryId": "c401-d95f-c5ce-7738",
+          "costName": "pts",
+          "expectedOldValue": "90",
+          "newValue": "95"
+        },
+        {
+          "entryId": "ca30-caf3-d7a8-1d32",
+          "costName": "pts",
+          "expectedOldValue": "150",
+          "newValue": "155"
+        },
+        {
+          "entryId": "fb32-c683-b38f-d339",
+          "costName": "pts",
+          "expectedOldValue": "90",
+          "newValue": "100"
+        },
+        {
+          "entryId": "6623-c2cb-6705-580b",
+          "costName": "pts",
+          "expectedOldValue": "220",
+          "newValue": "230"
+        },
+        {
+          "entryId": "1c73-43dc-bef0-a468",
+          "costName": "pts",
+          "expectedOldValue": "375",
+          "newValue": "395"
+        },
+        {
+          "entryId": "c3a6-8fab-45f0-2d45",
+          "costName": "pts",
+          "expectedOldValue": "90",
+          "newValue": "95"
+        },
+        {
+          "entryId": "1693-5e00-da69-57bb",
+          "costName": "pts",
+          "expectedOldValue": "95",
+          "newValue": "100"
+        },
+        {
+          "entryId": "af1e-9a3d-785c-47f8",
+          "costName": "pts",
+          "expectedOldValue": "85",
+          "newValue": "95"
+        },
+        {
+          "entryId": "c6d1-e73b-9d26-5d8b",
+          "costName": "pts",
+          "expectedOldValue": "95",
+          "newValue": "100"
+        },
+        {
+          "entryId": "bbfd-5b01-5bd3-a28b",
+          "costName": "pts",
+          "expectedOldValue": "140",
+          "newValue": "135"
+        },
+        {
+          "entryId": "2c2d-a2f9-61a8-a6c6",
+          "costName": "pts",
+          "expectedOldValue": "190",
+          "newValue": "180"
+        },
+        {
+          "entryId": "d2c6-bd0b-3205-3319",
+          "costName": "pts",
+          "expectedOldValue": "45",
+          "newValue": "40"
+        },
+        {
+          "entryId": "1705-379b-330d-36d4",
+          "costName": "pts",
+          "expectedOldValue": "180",
+          "newValue": "170"
+        },
+        {
+          "entryId": "f909-00c7-8ba4-018a",
+          "costName": "pts",
+          "expectedOldValue": "170",
+          "newValue": "160"
+        },
+        {
+          "entryId": "06f6-b870-4e43-4ed9",
+          "costName": "pts",
+          "expectedOldValue": "90",
+          "newValue": "100"
+        },
+        {
+          "entryId": "7b2b-4508-263d-f20f",
+          "costName": "pts",
+          "expectedOldValue": "255",
+          "newValue": "265"
+        },
+        {
+          "entryId": "c9df-2c38-25e5-ffc7",
+          "costName": "pts",
+          "expectedOldValue": "80",
+          "newValue": "85"
+        },
+        {
+          "entryId": "364c-e8a8-cc5b-5b02",
+          "costName": "pts",
+          "expectedOldValue": "100",
+          "newValue": "95"
+        },
+        {
+          "entryId": "b351-fccc-2121-1e1e",
+          "costName": "pts",
+          "expectedOldValue": "85",
+          "newValue": "95"
+        },
+        {
+          "entryId": "a0e9-d24d-0927-8670",
+          "costName": "pts",
+          "expectedOldValue": "15",
+          "newValue": "10"
+        },
+        {
+          "entryId": "7014-a67d-bc44-9bc6",
+          "costName": "pts",
+          "costTypeId": "51b2-306e-1021-d207",
+          "newValue": "5",
+          "create": true
+        },
+        {
+          "entryId": "7b2f-1a9b-4188-dd21",
+          "costName": "pts",
+          "costTypeId": "51b2-306e-1021-d207",
+          "newValue": "5",
+          "create": true
+        },
+        {
+          "entryId": "d82f-290f-bd1b-e7cc",
+          "costName": "pts",
+          "costTypeId": "51b2-306e-1021-d207",
+          "newValue": "5",
+          "create": true
+        },
+        {
+          "entryId": "b6d6-6e2d-58ad-6184",
+          "costName": "pts",
+          "costTypeId": "51b2-306e-1021-d207",
+          "newValue": "5",
+          "create": true
+        },
+        {
+          "entryId": "c08d-c2ed-78a7-140d",
+          "costName": "pts",
+          "costTypeId": "51b2-306e-1021-d207",
+          "newValue": "5",
+          "create": true
+        },
+        {
+          "entryId": "3a42-13dd-2a1e-dbd0",
+          "costName": "pts",
+          "costTypeId": "51b2-306e-1021-d207",
+          "newValue": "5",
+          "create": true
+        },
+        {
+          "entryId": "919d-2556-c95e-1e09",
+          "costName": "pts",
+          "expectedOldValue": "20",
+          "newValue": "30"
+        },
+        {
+          "entryId": "2f9f-6de5-bb22-815d",
+          "costName": "pts",
+          "expectedOldValue": "25",
+          "newValue": "35"
+        },
+        {
+          "entryId": "c1af-55bd-1303-dbb7",
+          "costName": "pts",
+          "expectedOldValue": "30",
+          "newValue": "35"
+        },
+        {
+          "entryId": "34f8-64e7-2649-37c1",
+          "costName": "pts",
+          "expectedOldValue": "35",
+          "newValue": "45"
+        },
+        {
+          "entryId": "3811-a215-d4a1-d197",
+          "costName": "pts",
+          "expectedOldValue": "20",
+          "newValue": "30"
+        },
+        {
+          "entryId": "d40a-c9a6-74d5-288d",
+          "costName": "pts",
+          "expectedOldValue": "25",
+          "newValue": "30"
+        }
+      ],
+      "costModifiers": [
+        {
+          "entryId": "c8a6-a4c5-703e-b717",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "275",
+          "newValue": "280"
+        },
+        {
+          "entryId": "c8a6-a4c5-703e-b717",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "330",
+          "newValue": "340"
+        },
+        {
+          "entryId": "bd6c-8683-8bc4-962d",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "320",
+          "newValue": "300"
+        },
+        {
+          "entryId": "bd6c-8683-8bc4-962d",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "20",
+          "newValue": "30",
+          "conditionChildId": "bd6c-8683-8bc4-962d"
+        },
+        {
+          "entryId": "958-a256-360-8620",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "160",
+          "newValue": "150"
+        },
+        {
+          "entryId": "6863-bf42-238a-fd0b",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "210",
+          "newValue": "200"
+        },
+        {
+          "entryId": "e6c2-f3b2-6d3e-c3d3",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "150",
+          "newValue": "140"
+        },
+        {
+          "entryId": "fe5a-764e-37ed-7cef",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "145",
+          "newValue": "135"
+        },
+        {
+          "entryId": "ade0-fa44-d4cf-4fc8",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "145",
+          "newValue": "135"
+        },
+        {
+          "entryId": "c581-3ab5-49a0-9ec0",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "10",
+          "newValue": "15",
+          "conditionChildId": "c581-3ab5-49a0-9ec0"
+        },
+        {
+          "entryId": "cbcc-e0ad-4b9-2c76",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "10",
+          "newValue": "15",
+          "conditionChildId": "cbcc-e0ad-4b9-2c76"
+        },
+        {
+          "entryId": "286e-8e39-b807-5981",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "10",
+          "newValue": "15",
+          "conditionChildId": "286e-8e39-b807-5981"
+        },
+        {
+          "entryId": "c8fc-b9fa-d126-a296",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "10",
+          "newValue": "15",
+          "conditionChildId": "c8fc-b9fa-d126-a296"
+        },
+        {
+          "entryId": "d8c8-ea02-21bf-de0b",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "10",
+          "newValue": "15",
+          "conditionChildId": "d8c8-ea02-21bf-de0b"
+        },
+        {
+          "entryId": "e529-5853-d7e2-17ad",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "10",
+          "newValue": "15",
+          "conditionChildId": "e529-5853-d7e2-17ad"
+        },
+        {
+          "entryId": "ddf2-228b-edd9-7e83",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "10",
+          "newValue": "15",
+          "conditionChildId": "ddf2-228b-edd9-7e83"
+        },
+        {
+          "entryId": "206c-6b4d-4aaa-7e79",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "130",
+          "newValue": "125"
+        },
+        {
+          "entryId": "206c-6b4d-4aaa-7e79",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "235",
+          "newValue": "225"
+        },
+        {
+          "entryId": "206c-6b4d-4aaa-7e79",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "260",
+          "newValue": "250"
+        },
+        {
+          "entryId": "206c-6b4d-4aaa-7e79",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "15",
+          "newValue": "20",
+          "conditionChildId": "206c-6b4d-4aaa-7e79"
+        },
+        {
+          "entryId": "2de0-5897-f724-a592",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "140",
+          "newValue": "150"
+        },
+        {
+          "entryId": "2f31-9132-b703-5fd8",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "190",
+          "newValue": "200"
+        },
+        {
+          "entryId": "2f31-9132-b703-5fd8",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "20",
+          "newValue": "40",
+          "conditionChildId": "2f31-9132-b703-5fd8"
+        },
+        {
+          "entryId": "d1ee-8d05-4fae-1727",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "180",
+          "newValue": "190"
+        },
+        {
+          "entryId": "8b1d-9029-f9e1-42d9",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "20",
+          "newValue": "30",
+          "conditionChildId": "8b1d-9029-f9e1-42d9"
+        },
+        {
+          "entryId": "4175-82c6-8e96-bef8",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "20",
+          "newValue": "30",
+          "conditionChildId": "4175-82c6-8e96-bef8"
+        },
+        {
+          "entryId": "0119-8c04-435e-c782",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "20",
+          "newValue": "30",
+          "conditionChildId": "0119-8c04-435e-c782"
+        },
+        {
+          "entryId": "29f9-fc47-787e-d9d3",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "40",
+          "newValue": "50",
+          "conditionChildId": "29f9-fc47-787e-d9d3"
+        },
+        {
+          "entryId": "5b4e-dcf1-5c6f-4d35",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "185",
+          "newValue": "180"
+        },
+        {
+          "entryId": "5b4e-dcf1-5c6f-4d35",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "370",
+          "newValue": "360"
+        },
+        {
+          "entryId": "bc88-0833-743e-0146",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "40",
+          "newValue": "50",
+          "conditionChildId": "bc88-0833-743e-0146"
+        },
+        {
+          "entryId": "e58b-507a-937f-7abf",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "25",
+          "newValue": "30",
+          "conditionChildId": "e58b-507a-937f-7abf"
+        },
+        {
+          "entryId": "6ba0-cede-e278-f86b",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "350",
+          "newValue": "365"
+        },
+        {
+          "entryId": "6528-4634-c2cf-2840",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "450",
+          "newValue": "460"
+        },
+        {
+          "entryId": "6528-4634-c2cf-2840",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "15",
+          "newValue": "40",
+          "conditionChildId": "6528-4634-c2cf-2840"
+        },
+        {
+          "entryId": "e8ad-bd40-5952-6859",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "220",
+          "newValue": "210"
+        },
+        {
+          "entryId": "ea1b-99f6-c398-06b1",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "160",
+          "newValue": "170"
+        },
+        {
+          "entryId": "415a-e6f6-d17f-d700",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "200",
+          "newValue": "190"
+        },
+        {
+          "entryId": "1e3f-209d-798f-3a42",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "160",
+          "newValue": "170"
+        },
+        {
+          "entryId": "2add-0a08-fbef-8f5e",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "160",
+          "newValue": "150"
+        },
+        {
+          "entryId": "6f72-b8f7-fd8d-5c2c",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "170",
+          "newValue": "175"
+        },
+        {
+          "entryId": "6f72-b8f7-fd8d-5c2c",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "10",
+          "newValue": "30",
+          "conditionChildId": "6f72-b8f7-fd8d-5c2c"
+        },
+        {
+          "entryId": "d9ea-2965-24-d3a3",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "60",
+          "newValue": "65",
+          "occurrence": 2
+        },
+        {
+          "entryId": "c6db-9736-4d53-3ef6",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "145",
+          "newValue": "150"
+        },
+        {
+          "entryId": "7a50-3722-8195-5877",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "10",
+          "newValue": "30",
+          "conditionChildId": "7a50-3722-8195-5877"
+        },
+        {
+          "entryId": "ca30-caf3-d7a8-1d32",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "300",
+          "newValue": "310"
+        },
+        {
+          "entryId": "ca30-caf3-d7a8-1d32",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "15",
+          "newValue": "40",
+          "conditionChildId": "ca30-caf3-d7a8-1d32"
+        },
+        {
+          "entryId": "f158-2979-c38b-65b5",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "40",
+          "newValue": "50",
+          "conditionChildId": "f158-2979-c38b-65b5"
+        },
+        {
+          "entryId": "d2c6-bd0b-3205-3319",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "65",
+          "newValue": "70"
+        },
+        {
+          "entryId": "d2c6-bd0b-3205-3319",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "95",
+          "newValue": "100"
+        },
+        {
+          "entryId": "1645-5407-92c8-1441",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "160",
+          "newValue": "170"
+        },
+        {
+          "entryId": "b622-a22-a04f-6303",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "200",
+          "newValue": "190"
+        },
+        {
+          "entryId": "f909-00c7-8ba4-018a",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "330",
+          "newValue": "320"
+        },
+        {
+          "entryId": "b541-3292-a5cc-dbeb",
+          "modifierType": "increment",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "40",
+          "newValue": "50",
+          "conditionChildId": "b541-3292-a5cc-dbeb"
+        },
+        {
+          "entryId": "c2ca-f754-cc05-0743",
+          "modifierType": "set",
+          "field": "51b2-306e-1021-d207",
+          "expectedOldValue": "180",
+          "newValue": "190"
+        }
+      ],
+      "addStepperTaxes": [
+        {
+          "entryId": "c8a6-a4c5-703e-b717",
+          "field": "51b2-306e-1021-d207",
+          "amount": "30",
+          "threshold": 2
+        },
+        {
+          "entryId": "918b-c9ed-7af7-74df",
+          "field": "51b2-306e-1021-d207",
+          "amount": "25",
+          "threshold": 2
+        },
+        {
+          "entryId": "a523-606f-b05c-851e",
+          "field": "51b2-306e-1021-d207",
+          "amount": "10",
+          "threshold": 2
+        },
+        {
+          "entryId": "36df-8f40-8a6b-7d4c",
+          "field": "51b2-306e-1021-d207",
+          "amount": "10",
+          "threshold": 2
+        },
+        {
+          "entryId": "d1ee-8d05-4fae-1727",
+          "field": "51b2-306e-1021-d207",
+          "amount": "15",
+          "threshold": 2
+        },
+        {
+          "entryId": "7b06-189d-b11e-c189",
+          "field": "51b2-306e-1021-d207",
+          "amount": "10",
+          "threshold": 2
+        },
+        {
+          "entryId": "212d-f302-aaaf-5c12",
+          "field": "51b2-306e-1021-d207",
+          "amount": "10",
+          "threshold": 2
+        },
+        {
+          "entryId": "f788-ecf2-9b2e-bc23",
+          "field": "51b2-306e-1021-d207",
+          "amount": "10",
+          "threshold": 2
+        }
+      ],
+      "stepperThresholds": []
+    }
+  ]
+}
