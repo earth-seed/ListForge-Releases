@@ -5,5 +5,12 @@
       "name": "Rites of Accord",
       "url": "r2:rites-of-accord"
     }
+  ],
+  "game_systems_direct": [
+    {
+      "name": "Warhammer 40,000 11th Edition",
+      "url": "https://files.data-ark.dev/wh40k-11e",
+      "system": "wh40k-11e_main"
+    }
   ]
 }
