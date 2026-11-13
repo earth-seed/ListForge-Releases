@@ -1,14 +1,5 @@
 {
-  "game_systems": [
-    {
-      "name": "BSData 10e 40K repo (use for released factions)",
-      "url": "https://github.com/BSData/wh40k-10e"
-    },
-    {
-      "name": "BSData 11e 40K repo (use for released factions)",
-      "url": "https://github.com/BSData/wh40k-11e"
-    }
-  ],
+  "game_systems": [],
   "game_systems_v2": [
     {
       "name": "Rites of Accord",
